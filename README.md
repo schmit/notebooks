@@ -1,6 +1,7 @@
 # Notebooks
 Collection of notebooks that I've written over the years, mostly for fun and in a hurry.
 
+- [Pattern matching for graphs](https://github.com/schmit/notebooks/blob/master/notebooks/graph-pattern-match/graph_pattern_matching.ipynb)
 - [Implementing REINFORCE from scratch in PyTorch](https://github.com/schmit/fun-notebooks/blob/master/notebooks/reinforce/reinforce-discrete.ipynb)
 - [Predicting the Brexit vote based on early results](https://github.com/schmit/fun-notebooks/blob/master/notebooks/brexit-vote/predicting-brexit-early-counts.ipynb)
 - [Modeling the NCAAM tournament to fill my bracket](https://github.com/schmit/fun-notebooks/blob/master/notebooks/march-madness-2017/how-i-fill-my-bracket-2017.ipynb)
